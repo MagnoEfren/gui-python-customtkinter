@@ -3,7 +3,6 @@ from customtkinter  import CTk, CTkFrame, CTkEntry, CTkLabel,CTkButton,CTkCheckB
 from tkinter import PhotoImage
 
 root = CTk() 
-
 root.geometry("500x600+350+20")
 root.minsize(480,500)
 root.config(bg ='#010101')
